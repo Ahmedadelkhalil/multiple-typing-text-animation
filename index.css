@@ -27,7 +27,7 @@ body {
   position: relative;
   overflow: hidden;
   color: white;
-  font-size: 35px;
+  font-size: 32px;
 }
 .sec-text {
   width: 220px;
@@ -47,7 +47,7 @@ body {
 @keyframes movement {
   40%,
   60% {
-    left: calc(100% + 4px);
+    left: calc(100%);
   }
   100% {
     left: 0%;
